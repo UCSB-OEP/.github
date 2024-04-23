@@ -1,5 +1,3 @@
-## UC Santa Barbara Office of Education Partnerships
-
 # Welcome to UCSB-OEP
 
 ***
