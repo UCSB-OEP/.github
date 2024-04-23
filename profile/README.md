@@ -1,14 +1,10 @@
 ## UC Santa Barbara Office of Education Partnerships
 
-Coming soon...
+# Welcome to UCSB-OEP
 
-<!--
+***
+The University of California, Santa Barbara (UCSB) supports the Office of Education Partnerships (OEP) in the goal to increase student access and success in higher education through programs and initiatives. For more information, please click [here](https://oep.ucsb.edu/) to visit the university hosted website.
 
-**Here are some ideas to get you started:**
+We are happy to share these materials. This curriculum is developed and implemented in collaboration with the [Smithsonian Data Science Lab](https://datascience.si.edu/).
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Please direct questions or concerns to <kaylageronimo-anctil@ucsb.edu> or <melanicastellanos@ucsb.edu>.
